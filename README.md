@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 CareFlow - Hospital Management System
 
 A comprehensive hospital management system for testing AI Bug Tracker integration.
@@ -30,3 +31,7 @@ Lab Reports	            Carol (Full Stack)
 cd backend
 npm install
 npm run dev
+=======
+# HealthCare
+Hospital Management System
+>>>>>>> a1498a22942941e60d4453fa15c650e2e77d47d3
